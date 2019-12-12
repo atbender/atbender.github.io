@@ -1,0 +1,7 @@
+Geração e Exploração de Cavernas com Marching Cubes
+
+1) Submarino controlável
+2) Sistema de câmera que acompanha o submarino
+3) Aceleração do submarino
+4) Geração de cavernas utilizando algoritmo marching cubes
+5) Interação com o cenário
